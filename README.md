@@ -1,5 +1,5 @@
 # CloudHighload
 
 # Dockerfile
-  * local
+  * Local: 'asd'
   * DockerHub
