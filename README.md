@@ -1,1 +1,5 @@
 # CloudHighload
+
+# Dockerfile
+  * local
+  * DockerHub
