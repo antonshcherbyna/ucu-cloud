@@ -1,4 +1,4 @@
-#minikube start
+minikube start
 
 eval $(minikube docker-env)
 
